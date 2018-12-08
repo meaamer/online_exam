@@ -1,0 +1,39 @@
+.navbar-default {
+    background-color: #eee;
+    border-color: #e7e7e7;
+}
+ html, body {
+    background-color:#ffffff;
+}
+
+footer {
+   background-color: #eee;
+    border-color: #e7e7e7;
+    height:70px;
+}
+.jumbotron {
+    padding: 30px 15px;
+    width: 80%;
+    margin-bottom: 30px;
+     margin-left: 80px;
+    color: inherit;
+    background-color: #ffffff;
+}
+
+.alert {
+    padding: 15px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border: 1px solid #eee;
+
+   
+}
+.alert:hover { 
+    background-color: #eee;
+}
+ .label-default {
+    background-color: #ffffff;
+    color: black;
+}
+
+  
